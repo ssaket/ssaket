@@ -13,8 +13,8 @@ I am also one of those people who like to press `ctr/cmd + s` at least 3 times :
 
 #### 🐰 I'm currently working on
 
-- [ssaket/eeg-b2b-regression](https://github.com/ssaket/eeg-b2b-regression) - Back-to-Back regression for encoding and decoding analysis (today)
-- [ssaket/visual-perception](https://github.com/ssaket/visual-perception) - blogs 😎, notes 📚, and code 💻 on how do we perceive objects in nature. (1 day ago)
-- [ssaket/time-series-models](https://github.com/ssaket/time-series-models) - Algorithms and Deep learning Models for Time Series data (2 days ago)
-- [ssaket/amass-annotate-image](https://github.com/ssaket/amass-annotate-image) - A tool to quickly Search and Annotate images online from multiple sources. Built with ❤️ using React  (4 days ago)
-- [ssaket/typescript-stockpile-images](https://github.com/ssaket/typescript-stockpile-images) - A typescript library to Search and Download images from Flickr, Pexels, Pixabay, Unsplash. (4 days ago)
+- [ssaket/eeg-b2b-regression](https://github.com/ssaket/eeg-b2b-regression) (today)
+- [ssaket/visual-perception](https://github.com/ssaket/visual-perception) (1 day ago)
+- [ssaket/time-series-models](https://github.com/ssaket/time-series-models) (2 days ago)
+- [ssaket/amass-annotate-image](https://github.com/ssaket/amass-annotate-image) (4 days ago)
+- [ssaket/typescript-stockpile-images](https://github.com/ssaket/typescript-stockpile-images) (4 days ago)
