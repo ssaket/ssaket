@@ -13,5 +13,5 @@ I am also one of those people who like to press `ctr/cmd + s` at least 3 times :
 
 #### 🐰 I'm currently working on
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{- end}}
