@@ -11,7 +11,7 @@ I am also one of those people who like to press `ctr/cmd + s` at least 3 times :
 
 
 
-#### 🐰 Check out what I'm currently working on
+#### 🐰 I'm currently working on
 
 - [ssaket/eeg-b2b-regression](https://github.com/ssaket/eeg-b2b-regression) - Back-to-Back regression for encoding and decoding analysis (today)
 - [ssaket/visual-perception](https://github.com/ssaket/visual-perception) - blogs 😎, notes 📚, and code 💻 on how do we perceive objects in nature. (1 day ago)
