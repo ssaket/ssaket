@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@main
 
-      - uses: muesli/readme-scribe@main
+      - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
@@ -23,6 +23,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: Update generated README
-          branch: master
+          commit_message: Update README
+          branch: main
           commit_author: GitHub Actions <actions@github.com> # defaults to author of the commit that triggered the run:  :  
