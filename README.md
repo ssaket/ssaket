@@ -13,7 +13,7 @@ I am also one of those people who like to press `ctr/cmd + s` at least 3 times :
 
 #### 🐰 I'm currently working on
 
-- [ssaket/eeg-b2b-regression](https://github.com/ssaket/eeg-b2b-regression) (4 days ago)
+- [ssaket/eeg-b2b-regression](https://github.com/ssaket/eeg-b2b-regression) (5 days ago)
 - [ssaket/visual-perception](https://github.com/ssaket/visual-perception) (2 weeks ago)
 - [ssaket/time-series-models](https://github.com/ssaket/time-series-models) (2 weeks ago)
 - [ssaket/amass-annotate-image](https://github.com/ssaket/amass-annotate-image) (2 weeks ago)
