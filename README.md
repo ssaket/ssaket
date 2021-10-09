@@ -15,6 +15,6 @@ I am also one of those people who like to press `ctr/cmd + s` at least 3 times :
 
 - [ssaket/eeg-b2b-regression](https://github.com/ssaket/eeg-b2b-regression) (1 week ago)
 - [ssaket/visual-perception](https://github.com/ssaket/visual-perception) (2 weeks ago)
-- [ssaket/time-series-models](https://github.com/ssaket/time-series-models) (2 weeks ago)
+- [ssaket/time-series-models](https://github.com/ssaket/time-series-models) (3 weeks ago)
 - [ssaket/amass-annotate-image](https://github.com/ssaket/amass-annotate-image) (3 weeks ago)
 - [ssaket/typescript-stockpile-images](https://github.com/ssaket/typescript-stockpile-images) (3 weeks ago)
