@@ -16,4 +16,4 @@ I'm currently working on
 - [ssaket/typescript-stockpile-images](https://github.com/ssaket/typescript-stockpile-images) (3 weeks ago)
 - [ssaket/visual-perception](https://github.com/ssaket/visual-perception) (3 weeks ago)
 - [ssaket/eeg-b2b-regression](https://github.com/ssaket/eeg-b2b-regression) (1 month ago)
-- [ssaket/time-series-models](https://github.com/ssaket/time-series-models) (1 month ago)
+- [ssaket/time-series-models](https://github.com/ssaket/time-series-models) (2 months ago)
