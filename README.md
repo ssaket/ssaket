@@ -12,7 +12,7 @@ I am also one of those people who like to press `ctr/cmd + s` at least 3 times :
 
 I'm currently working on
 
-- [ssaket/slide-reader](https://github.com/ssaket/slide-reader) (2 weeks ago)
+- [ssaket/slide-reader](https://github.com/ssaket/slide-reader) (3 weeks ago)
 - [ssaket/typescript-stockpile-images](https://github.com/ssaket/typescript-stockpile-images) (3 weeks ago)
 - [ssaket/visual-perception](https://github.com/ssaket/visual-perception) (3 weeks ago)
 - [ssaket/eeg-b2b-regression](https://github.com/ssaket/eeg-b2b-regression) (1 month ago)
