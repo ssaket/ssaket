@@ -8,12 +8,3 @@ I'm a Master's student at the University of Stuttgart. My specialization is Visu
 
 I am currently focusing on learning about how :brain: works! :exploding_head:\
 I am also one of those people who like to press `ctr/cmd + s` at least 3 times :arrow_double_down:
-
-
-I'm currently working on
-
-- [ssaket/slide-reader](https://github.com/ssaket/slide-reader) (1 month ago)
-- [ssaket/typescript-stockpile-images](https://github.com/ssaket/typescript-stockpile-images) (1 month ago)
-- [ssaket/visual-perception](https://github.com/ssaket/visual-perception) (1 month ago)
-- [ssaket/eeg-b2b-regression](https://github.com/ssaket/eeg-b2b-regression) (2 months ago)
-- [ssaket/time-series-models](https://github.com/ssaket/time-series-models) (3 months ago)
